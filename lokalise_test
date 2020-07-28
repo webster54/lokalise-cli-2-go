@@ -1,0 +1,15 @@
+{
+    "name": "Lokalise_test Project",
+    "description": "iOS + Android strings of TheApp. https://theapp.com",
+    "languages": [
+        {
+            "lang_iso": "en",
+            "custom_iso": "en-us"
+        },
+        {
+            "lang_iso": "en_GB",
+            "custom_iso": "en-gb"
+        }
+    ],
+    "base_lang_iso": "en-us"
+}
